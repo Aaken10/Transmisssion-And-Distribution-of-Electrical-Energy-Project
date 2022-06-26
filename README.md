@@ -34,3 +34,5 @@ Output Results:
 15. Compute the amount of compensation required in MVar. (Only for short line model) 
 
 The program is written in MATLAB R2021a.
+
+Sample input file uploaded and the calculated paramaters to that particular overhead cable will be displayed in the output file. Check power_circles.png for short line model graph and power_circles(three_models).png for comparison with all three line models.
