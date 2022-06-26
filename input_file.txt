@@ -1,0 +1,15 @@
+Type of the system Symmetrical(Put 1) Unsymmetrical Spacing(Put 2): 2
+Spacing between the phase conductors(enter distance)(m) a(Unsymmetrical): 3
+Spacing between the phase conductors(enter distance)(m) b(Unsymmetrical): 4
+Spacing between the phase conductors(enter distance)(m) c(Unsymmetrical): 5
+Number of sub-conductors per bundle: 2
+Spacing between the sub-conductors(m): 0.25
+Number of strands in each sub-conductor: 19
+Diameter of each strand(m): 5e-3
+Length of line(km): 300
+Model of Line(1-Short , 2-Nominal Pi ,3-Long): 3
+Resistance of line per km(Ohms): 0.15
+Power Frequency(Hz): 50
+Nominal Voltage(V): 132e3
+Receiving end load(MW): 25
+Power factor of receiving end load: 0.9

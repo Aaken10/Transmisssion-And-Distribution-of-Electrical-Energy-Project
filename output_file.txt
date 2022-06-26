@@ -1,0 +1,26 @@
+Members:
+1. 107120001 - Aayush
+2. 107120003 - Abhishek
+3. 107120037 - Dhruva
+
+ L = 8.747884e-04 H/km per phase
+ C = 1.307228e-08 F/km per phase
+ XL = 8.244686e+01 ohm
+ XC = 8.116664e+02 ohm
+ Ichg = 9.230964e+01
+ A = D = 0.949513 +j0.027254
+ B = (4.348677e+01 + j81.467653) ohm
+ C = (-1.126903e-05 + j0.001211) mho
+ VS = 1.360770e+05 V
+ IS = 1.491791e+02 A
+ Percentage Voltage Regulation = 8.525312e+00 %
+ Line Loss = 1.992781e+00 MW
+ Efficiency = 9.261735e+01 %
+
+ SENDING END POWER CIRCLE:
+ 	Center: -3.149209e+01 + j5.512870e+01
+ 	Radius: 6.483535e+01
+
+ RECEIVING END POWER CIRCLE:
+ 	Center: -2.963329e+01 - j5.187477e+01
+ 	Radius: 6.483535e+01
